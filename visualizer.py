@@ -12,7 +12,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 from deg2km import ll2xy
 import os
-#import cv2
+import cv2
 import natsort
 
 class Visualizer(object):
