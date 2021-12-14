@@ -10,4 +10,5 @@ python3 main.py -p path to pickle file -o path to output file
 ```
 # Important information  
 current visualization provided only with Matplotlib
+
 Working of Visualization using other tools-Visual SLAM
