@@ -9,6 +9,6 @@ For simplicity only each point of specific point cloud with corresponding dimens
 python3 main.py -p path to pickle file -o path to output file
 ```
 # Important information  
-current visualization provided only with Matplotlib
+Visualization provided only with Matplotlib
 
-Working of Visualization using other tools-Visual SLAM
+currently Working on Visualization using other tools-Visual SLAM
